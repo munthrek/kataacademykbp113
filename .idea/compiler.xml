@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="kataacademykbp113" target="17" />
+      <module name="kataacademykbp113" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
